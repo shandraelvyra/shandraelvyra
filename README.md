@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is **Shandra Elvyra**.
+
+I'm third year student in Univesity, majoring in Information Systems who's responsible and enjoy the challenge of
+solving problems. Passionately to learn and exploring about Web Development, UI/UX Design. 
+
 <!--
 **shandraelvyra/shandraelvyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
