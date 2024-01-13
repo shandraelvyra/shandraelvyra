@@ -6,6 +6,7 @@ I'm bachelor degree in Information Systems who's responsible and enjoy the chall
 solving problems. Passionately to learn and exploring about Web Development, UI/UX Design. If you're interested in connecting with me, you can follow me on [LinkedIn](https://www.linkedin.com/in/shandraelvyra/).
 
 ![shandraelvyra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shandraelvyra&theme=vue-dark&hide_border=true)
+![shandraelvyra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shandraelvyra&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **shandraelvyra/shandraelvyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
