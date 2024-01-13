@@ -3,14 +3,14 @@
 My name is **Shandra Elvyra**.
 
 I'm bachelor degree in Information Systems who's responsible and enjoy the challenge of
-solving problems. Passionately to learn and exploring about Web Development, UI/UX Design. 
+solving problems. Passionately to learn and exploring about Web Development, UI/UX Design. If you're interested in connecting with me, you can follow me on [LinkedIn](https://www.linkedin.com/in/shandraelvyra/).
 
 
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
